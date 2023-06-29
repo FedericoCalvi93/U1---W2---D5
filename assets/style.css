@@ -1,0 +1,19 @@
+.hero-section {
+    background-color: rgb(8, 98, 182);
+    color: rgb(255, 255, 255);
+    padding: 80px;
+  }
+  
+  .hero-section h4 {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  #sub-hero-container {
+    background-color: rgb(8, 98, 182);
+    margin-left: 12px;
+    padding: 20px;
+  }
+
+  #sub-hero-container h1 {
+    color: white;
+  }
